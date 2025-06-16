@@ -1,0 +1,64 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/include",
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/src",
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/TimerOne",
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/DallasTemperature",
+                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/OneWire",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/variants/standard",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/include",
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/src",
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/TimerOne",
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/DallasTemperature",
+                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/Arduino-termometro/.pio/libdeps/uno/OneWire",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60118",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "compilerPath": "/home/meslin/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
