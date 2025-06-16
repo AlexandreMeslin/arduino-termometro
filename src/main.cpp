@@ -1,3 +1,10 @@
+/**
+ * Termômetro com Arduino
+ * 
+ * Utiliza o termômetro Dallas DS18B20
+ * 
+ * @author Alexandre Meslin
+ */
 #include <Arduino.h>
 // Include the libraries we need
 #include <OneWire.h>
