@@ -12,8 +12,3 @@ Multifunction Shield (https://github.com/coderfls/Arduino_MultiFunctionShield)
 Esquemático Completo
 
 ![Esquemático com Multifunction shield e DS18B20](img/esquema.png)
-
-VS-Code Codespace
-e uma linha Web
-
-Mais uma linha Codespace
