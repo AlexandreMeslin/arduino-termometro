@@ -8,13 +8,13 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/include",
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/src",
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/include",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/src",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
                 "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/TimerOne",
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/DallasTemperature",
-                "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/OneWire",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/TimerOne",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/DallasTemperature",
+                "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/OneWire",
                 "/home/meslin/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/meslin/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -26,13 +26,13 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/include",
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/src",
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/include",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/src",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/MultiFuncShield-Library-1_2",
                     "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/TimerOne",
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/DallasTemperature",
-                    "/home/meslin/Documents/Google_Drive/Projetos/Arduino/arduino-termometro/.pio/libdeps/uno/OneWire",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/TimerOne",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/DallasTemperature",
+                    "/media/meslin/706A23046A22C726/Users/meslin/Documents/Repositories/arduino-termometro/.pio/libdeps/uno/OneWire",
                     "/home/meslin/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/meslin/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/home/meslin/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -43,7 +43,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60118",
+                "PLATFORMIO=60119",
                 "ARDUINO_AVR_UNO",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
